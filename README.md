@@ -1,6 +1,9 @@
 # Oi eu sou Thiago Lincoln, Developer Front-End !
 
 💻 Developer at 2 years;
+📚 Born at 24/09/2010
+📩 souzadev3@gmail.com;
+🇧🇷 Salvador, BA, Brasil;
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
