@@ -1,8 +1,11 @@
 # Oi eu sou Thiago Lincoln, Developer Front-End !
 
 💻 Developer at 2 years;
+<br>
 📚 Born at 24/09/2010
+<br>
 📩 souzadev3@gmail.com;
+<br>
 🇧🇷 Salvador, BA, Brasil;
 
 <div style="display: inline_block"><br>
