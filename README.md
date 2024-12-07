@@ -1,6 +1,6 @@
 # Oi eu sou Thiago Lincoln, Developer Front-End !
 
-💻 Developer at 2 years
+💻 Developer at 3 years
 <br>
 📚 Born at 24/09/2010
 <br>
