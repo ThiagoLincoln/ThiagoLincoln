@@ -9,6 +9,15 @@
 <br>
 🇧🇷 Salvador, BA, Brasil
 
+<div>
+   **Habilidades principais:**
+
+- 🖌️ Frontend: React, TypeScript, Tailwind CSS, Svelte, Solid.js
+- 🌐 Backend: Python (com MySQL), Fastify
+- 🎮 Game Dev: CFX Lua para FiveM
+- 🛠️ Especialidades: Otimização de PC e UI Design Exclusivo
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
