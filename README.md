@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Thiago Lincoln!
-🌟 Desenvolvedor Front-end | Criador de Experiências Únicas | Entusiasta de Tecnologia
+💻 Desenvolvedor Front-end | Criador de Interfaces Modernas e Experiências Interativas
 
 💻 Developer at 4 years
 <br>
