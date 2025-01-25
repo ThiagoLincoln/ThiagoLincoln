@@ -7,7 +7,7 @@
 <br>
 📩 souzadev3@gmail.com
 <br>
-🇧🇷 Salvador, BA, Brasil
+🏝️ Salvador, BA, Brasil
 
 <div>
 Habilidades principais: <br>
