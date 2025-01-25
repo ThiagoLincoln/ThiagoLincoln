@@ -10,10 +10,8 @@
 🇧🇷 Salvador, BA, Brasil
 
 <div>
-   **Habilidades principais:**
-
+Habilidades principais:
 - 🖌️ Frontend: React, TypeScript, Tailwind CSS, Svelte, Solid.js
-- 🌐 Backend: Python (com MySQL), Fastify
 - 🎮 Game Dev: CFX Lua para FiveM
 - 🛠️ Especialidades: Otimização de PC e UI Design Exclusivo
 </div>
