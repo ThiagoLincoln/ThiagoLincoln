@@ -13,7 +13,7 @@
 <div>
 Habilidades principais: <br>
 - 🖌️ Frontend: React, TypeScript, Tailwind CSS, Svelte, Solid.js <br>
-- 🖌️ Frontend: Go Lang<br>
+- 🖌️ Back-end: Go Lang<br>
 - 🎮 Game Dev: CFX Lua para FiveM Learning <br>
 - 🛠️ Extras: UI Design Exclusivo <br>
 </div>
